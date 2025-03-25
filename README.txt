@@ -2,6 +2,8 @@ Ray Tracer - Computer Graphics Assignment UCSD
 
 Valli Nachiappan
 
+Tools and Languages Used: C/C++, Visual Studio Code
+
 
 Note: This was a course project for a Computer Graphics course at UCSD, and this was a partner project, however, I implemented the majority of the code. 
 
